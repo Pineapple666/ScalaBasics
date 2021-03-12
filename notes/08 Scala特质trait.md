@@ -590,7 +590,7 @@ object ClassDemo01 {
 
 ## 8. 案例：程序员
 
-![image-20210311145745896](/home/pineapple/.config/Typora/typora-user-images/image-20210311145745896.png)
+![image-20210311145745896](https://i.loli.net/2021/03/12/dC9Q4uk5wPvaInz.png)
 
 ```scala
 package com.pineapple.demo06_exerise

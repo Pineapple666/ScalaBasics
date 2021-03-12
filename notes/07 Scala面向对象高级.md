@@ -167,7 +167,7 @@ object ClassDemo01 {
 
 有时候，我们设计的程序，要根据变量的类型来执行对应的逻辑
 
-![image-20210310211204151](/home/pineapple/.config/Typora/typora-user-images/image-20210310211204151.png)
+![image-20210310211204151](https://i.loli.net/2021/03/12/tObwCLlu9QWTZE6.png)
 
 两种方式：
 
@@ -283,7 +283,7 @@ abstract class 抽象类名 {
 
 ### 3.3 案例
 
-![image-20210311091244370](/home/pineapple/.config/Typora/typora-user-images/image-20210311091244370.png)
+![image-20210311091244370](https://i.loli.net/2021/03/12/hx54sJiR79o1GPK.png)
 
 ```scala
 package com.pineapple.demo04_abstract

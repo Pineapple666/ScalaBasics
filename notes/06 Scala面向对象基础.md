@@ -34,11 +34,11 @@
 
 用 `class` 来创建类，用 `new`来创建对象
 
-![image-20210310111133710](/home/pineapple/.config/Typora/typora-user-images/image-20210310111133710.png)
+![image-20210310111133710](https://i.loli.net/2021/03/12/69BiLDyUfj5SZPh.png)
 
-![image-20210310111205337](/home/pineapple/.config/Typora/typora-user-images/image-20210310111205337.png)
+![image-20210310111205337](https://i.loli.net/2021/03/12/WjxFQPBufXtYaeD.png)
 
-![image-20210310111311067](/home/pineapple/.config/Typora/typora-user-images/image-20210310111311067.png)
+![image-20210310111311067](https://i.loli.net/2021/03/12/nJ9x1ycjEQlF28G.png)
 
 ```scala
 package com.pineapple.demo01_oop

@@ -421,7 +421,7 @@ d . month1_hour025_cnt,d .month1_hour627_cnt,d .month1_hour829_cnt,d .month1_hou
 
 ### 6.3 Scala类型层次结构
 
-![image-20210302151931916](C:\Users\18368\AppData\Roaming\Typora\typora-user-images\image-20210302151931916.png)
+![image-20210302151931916](https://i.loli.net/2021/03/12/QDae2GY5AH6g9tS.png)
 
 ### 6.4 思考题
 

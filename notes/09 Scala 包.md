@@ -28,11 +28,11 @@
 
 ### 1.2 示例
 
-![image-20210311154629939](/home/pineapple/.config/Typora/typora-user-images/image-20210311154629939.png)
+![image-20210311154629939](https://i.loli.net/2021/03/12/B32IEkuYzUpPVMd.png)
 
-![image-20210311154853882](/home/pineapple/.config/Typora/typora-user-images/image-20210311154853882.png)
+![image-20210311154853882](https://i.loli.net/2021/03/12/PCciny5zs1qA23j.png)
 
-![image-20210311155109810](/home/pineapple/.config/Typora/typora-user-images/image-20210311155109810.png)
+![image-20210311155109810](https://i.loli.net/2021/03/12/r93Ee4nFyADUZX7.png)
 
 ### 1.3 作用域
 

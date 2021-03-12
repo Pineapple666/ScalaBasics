@@ -34,7 +34,7 @@
 
 如图：
 
-![image-20210309145327054](/home/pineapple/.config/Typora/typora-user-images/image-20210309145327054.png)
+![image-20210309145327054](https://i.loli.net/2021/03/12/zl8icIkKjYq9hJX.png)
 
 > 注意：顺序结构是Scala的默认流程控制结构
 
@@ -81,7 +81,7 @@ if(关系表达式) {
 
 #### 3.3.2 执行流程
 
-![image-20210309150311220](/home/pineapple/.config/Typora/typora-user-images/image-20210309150311220.png)
+![image-20210309150311220](https://i.loli.net/2021/03/12/sfAH4I6mSxyYaoU.png)
 
 #### 3.3.3 示例
 
@@ -117,7 +117,7 @@ scala> if(score >= 60) {
 
 ### 3.5 多分支
 
-![image-20210309151422445](/home/pineapple/.config/Typora/typora-user-images/image-20210309151422445.png)
+![image-20210309151422445](https://i.loli.net/2021/03/12/9wHPcJZAbfGtQLB.png)
 
 ```scala
 scala> val score = 91

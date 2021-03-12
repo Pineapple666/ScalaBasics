@@ -24,7 +24,7 @@
 
 ​		Scala之父是: `Martin-Odersky(马丁·奥德斯基)`他是EPFL(瑞士领先的技术大学）编程研究组的教授.也是Typesafe公司(现已更名为: Lightbend公司)的联合创始人.`他在整个职业生涯中一直不断追求着一个目标:让写程序这样一个基础工作变得高效、简单、且令人愉悦`.他曾经就职于IBM研究院、耶鲁大学、卡尔斯鲁厄大学以及南澳大利亚大学.在此之前，他在瑞士苏黎世联邦理工学院追随Pascal语言创始人Niklaus Wirth(1984年图灵奖获得者)学习，并于1989年获得博士学位.
 
-![image-20210302100852216](/home/pineapple/.config/Typora/typora-user-images/image-20210302100852216.png)
+![image-20210302100852216](https://i.loli.net/2021/03/12/ulP1ir34SKLRQ8N.png)
 
 ### 1.3 语言特点
 
@@ -56,11 +56,11 @@
 
 #### Java程序编译执行流程
 
-![image-20210302101634521](/home/pineapple/.config/Typora/typora-user-images/image-20210302101634521.png)
+![image-20210302101634521](https://i.loli.net/2021/03/12/n4oWyZcXzslYmvM.png)
 
 #### Scala程序编译执行流程
 
-![image-20210302101741940](/home/pineapple/.config/Typora/typora-user-images/image-20210302101741940.png)
+![image-20210302101741940](https://i.loli.net/2021/03/12/qLsD17Yp2ow4Atn.png)
 
 ### 2.2 代码对比
 
