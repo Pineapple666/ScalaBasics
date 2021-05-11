@@ -1,4 +1,4 @@
-# Scala第五章节
+# Scala 第五章
 
 ## 章节目标
 
@@ -262,7 +262,7 @@ Hello, Scala
 >    ```scala
 >    scala> def sayHello() { println("Hello, Scala") }
 >    sayHello: ()Unit
->    
+>       
 >    scala> sayHello
 >    Hello, Scala
 >    ```

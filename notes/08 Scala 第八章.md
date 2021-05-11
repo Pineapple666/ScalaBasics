@@ -1,4 +1,4 @@
-# Scala 特质trait
+# Scala 第八章
 
 
 
